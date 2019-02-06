@@ -19,7 +19,6 @@ __fastcall TForm1::TForm1(TComponent* Owner)
     AcInvoice1->Parent = Form1;
     AcInvoice1->Left = 100;
     AcInvoice1->Top = 100;
-    //AcInvoice1->Height = 300;
 }
 //---------------------------------------------------------------------------
 
